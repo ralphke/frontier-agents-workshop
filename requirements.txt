@@ -12,7 +12,7 @@ azure-ai-evaluation==1.13.7
 a2a-sdk==0.3.17
 ag-ui-protocol==0.1.10
 fastapi==0.121.3
-fastmcp==2.13.1
+fastmcp==2.14.2
 httpx==0.28.1
 openai==2.8.1
 pydantic==2.12.4
